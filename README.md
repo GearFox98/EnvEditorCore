@@ -4,7 +4,7 @@ This is a CORE module for an environment and variable stores manipulation utilit
 
 ## TODO
 
--[x] Read files from a location
--[x] Save and load paths
--[x] Logger
--[ ] Write new infomation in the files
+- [x] Read files from a location
+- [x] Save and load paths
+- [x] Logger
+- [ ] Write new infomation in the files
